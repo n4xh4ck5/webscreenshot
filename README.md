@@ -1,5 +1,5 @@
 # webscreenshot
-Obtain a screenshot about a web page
+Obtain a screenshot about a website
 # References
 
 <pre>
