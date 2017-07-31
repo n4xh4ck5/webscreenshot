@@ -11,7 +11,7 @@ Original Source Code: https://github.com/maaaaz/webscreenshot
 <pre>
 python webscreenshot.py -i prueba.json
 
-	             _                                      _           _   
+	       _                                      _           _   
               | |                                    | |         | |  
  __      _____| |__  ___  ___ _ __ ___  ___ _ __  ___| |__   ___ | |_ 
  \ \ /\ / / _ \ '_ \/ __|/ __| '__/ _ \/ _ \ '_ \/ __| '_ \ / _ \| __|
