@@ -40,6 +40,8 @@ http://www.fwhibbit.es/
 </pre>
 
 # Requirements
+<pre>
 - python 2.7
 - phantomjs > 2.x - Info installation: https://github.com/maaaaz/webscreenshot/wiki/Phantomjs-installation
 - json - Installable by pip
+</pre>
